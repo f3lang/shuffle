@@ -1,0 +1,24 @@
+{
+  "name": "@f3lang/shuffle",
+  "version": "0.0.1",
+  "description": "Shuffle a deck of cards (not fisher yates!)",
+  "main": "shuffle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/f3lang/shuffle.git"
+  },
+  "keywords": [
+    "shuffle",
+    "card",
+    "random"
+  ],
+  "author": "Wolfgang Felbermeier <wf@felbermeier.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f3lang/shuffle/issues"
+  },
+  "homepage": "https://github.com/f3lang/shuffle#readme"
+}
